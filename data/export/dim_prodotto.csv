@@ -1,0 +1,37 @@
+sk_prodotto;id_prodotto;nome;categoria;tipo_veicolo;prezzo_listino
+1;P0001;Shampoo Base (auto);Shampoo;Auto;9.0
+2;P0002;Shampoo Pro (auto);Shampoo;Auto;11.7
+3;P0003;Shampoo Eco (auto);Shampoo;Auto;8.1
+4;P0004;Shampoo Base (camion);Shampoo;Camion;36.0
+5;P0005;Shampoo Pro (camion);Shampoo;Camion;46.8
+6;P0006;Shampoo Eco (camion);Shampoo;Camion;32.4
+7;P0007;Cera Base (auto);Cera;Auto;18.0
+8;P0008;Cera Pro (auto);Cera;Auto;23.4
+9;P0009;Cera Eco (auto);Cera;Auto;16.2
+10;P0010;Cera Base (camion);Cera;Camion;72.0
+11;P0011;Cera Pro (camion);Cera;Camion;93.6
+12;P0012;Cera Eco (camion);Cera;Camion;64.8
+13;P0013;Detergente interni Base (auto);Detergente interni;Auto;8.0
+14;P0014;Detergente interni Pro (auto);Detergente interni;Auto;10.4
+15;P0015;Detergente interni Eco (auto);Detergente interni;Auto;7.2
+16;P0016;Detergente interni Base (camion);Detergente interni;Camion;32.0
+17;P0017;Detergente interni Pro (camion);Detergente interni;Camion;41.6
+18;P0018;Detergente interni Eco (camion);Detergente interni;Camion;28.8
+19;P0019;Lucidante Base (auto);Lucidante;Auto;15.0
+20;P0020;Lucidante Pro (auto);Lucidante;Auto;19.5
+21;P0021;Lucidante Eco (auto);Lucidante;Auto;13.5
+22;P0022;Lucidante Base (camion);Lucidante;Camion;60.0
+23;P0023;Lucidante Pro (camion);Lucidante;Camion;78.0
+24;P0024;Lucidante Eco (camion);Lucidante;Camion;54.0
+25;P0025;Panni e spugne Base (auto);Panni e spugne;Auto;6.0
+26;P0026;Panni e spugne Pro (auto);Panni e spugne;Auto;7.8
+27;P0027;Panni e spugne Eco (auto);Panni e spugne;Auto;5.4
+28;P0028;Panni e spugne Base (camion);Panni e spugne;Camion;24.0
+29;P0029;Panni e spugne Pro (camion);Panni e spugne;Camion;31.2
+30;P0030;Panni e spugne Eco (camion);Panni e spugne;Camion;21.6
+31;P0031;Kit completo Base (auto);Kit completo;Auto;35.0
+32;P0032;Kit completo Pro (auto);Kit completo;Auto;45.5
+33;P0033;Kit completo Eco (auto);Kit completo;Auto;31.5
+34;P0034;Kit completo Base (camion);Kit completo;Camion;140.0
+35;P0035;Kit completo Pro (camion);Kit completo;Camion;182.0
+36;P0036;Kit completo Eco (camion);Kit completo;Camion;126.0

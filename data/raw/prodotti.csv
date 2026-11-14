@@ -1,0 +1,37 @@
+id_prodotto;nome;categoria;tipo_veicolo;prezzo_listino
+P0001;Shampoo Base (auto);Shampoo;auto;9.0
+P0002;Shampoo Pro (auto);Shampoo;auto;11.7
+P0003;Shampoo Eco (auto);Shampoo;auto;8.1
+P0004;Shampoo Base (camion);Shampoo;camion;36.0
+P0005;Shampoo Pro (camion);Shampoo;camion;46.8
+P0006;Shampoo Eco (camion);Shampoo;camion;32.4
+P0007;Cera Base (auto);Cera;auto;18.0
+P0008;Cera Pro (auto);Cera;auto;23.4
+P0009;Cera Eco (auto);Cera;auto;16.2
+P0010;Cera Base (camion);Cera;camion;72.0
+P0011;Cera Pro (camion);Cera;camion;93.6
+P0012;Cera Eco (camion);Cera;camion;64.8
+P0013;Detergente interni Base (auto);Detergente interni;auto;8.0
+P0014;Detergente interni Pro (auto);Detergente interni;auto;10.4
+P0015;Detergente interni Eco (auto);Detergente interni;auto;7.2
+P0016;Detergente interni Base (camion);Detergente interni;camion;32.0
+P0017;Detergente interni Pro (camion);Detergente interni;camion;41.6
+P0018;Detergente interni Eco (camion);Detergente interni;camion;28.8
+P0019;Lucidante Base (auto);Lucidante;auto;15.0
+P0020;Lucidante Pro (auto);Lucidante;auto;19.5
+P0021;Lucidante Eco (auto);Lucidante;auto;13.5
+P0022;Lucidante Base (camion);Lucidante;camion;60.0
+P0023;Lucidante Pro (camion);Lucidante;camion;78.0
+P0024;Lucidante Eco (camion);Lucidante;camion;54.0
+P0025;Panni e spugne Base (auto);Panni e spugne;auto;6.0
+P0026;Panni e spugne Pro (auto);Panni e spugne;auto;7.8
+P0027;Panni e spugne Eco (auto);Panni e spugne;auto;5.4
+P0028;Panni e spugne Base (camion);Panni e spugne;camion;24.0
+P0029;Panni e spugne Pro (camion);Panni e spugne;camion;31.2
+P0030;Panni e spugne Eco (camion);Panni e spugne;camion;21.6
+P0031;Kit completo Base (auto);Kit completo;auto;35.0
+P0032;Kit completo Pro (auto);Kit completo;auto;45.5
+P0033;Kit completo Eco (auto);Kit completo;auto;31.5
+P0034;Kit completo Base (camion);Kit completo;camion;140.0
+P0035;Kit completo Pro (camion);Kit completo;camion;182.0
+P0036;Kit completo Eco (camion);Kit completo;camion;126.0

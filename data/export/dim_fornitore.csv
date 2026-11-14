@@ -1,0 +1,301 @@
+sk_fornitore;id_fornitore;nome;provincia
+1;F0001;Aqua Auto & C.;Rieti
+2;F0002;Roma Roma S.n.c.;Frosinone
+3;F0003;Aqua Auto S.n.c.;Roma
+4;F0004;Max Aqua Group;Roma
+5;F0005;Pulito Eco S.r.l.;Latina
+6;F0006;Max Idro S.n.c.;Roma
+7;F0007;Brill Clean S.n.c.;Roma
+8;F0008;Eco Clean Group;Viterbo
+9;F0009;Max Max S.r.l.;Frosinone
+10;F0010;Splendor Eco & C.;Rieti
+11;F0011;Auto Splendor Group;Roma
+12;F0012;Nova Auto & C.;Roma
+13;F0013;Pulito Roma & C.;Latina
+14;F0014;Eco Eco & C.;Latina
+15;F0015;Eco Turbo & C.;Frosinone
+16;F0016;Max Max Group;Roma
+17;F0017;Brill Splendor & C.;Roma
+18;F0018;Aqua Pulito Group;Viterbo
+19;F0019;Clean Lazio & C.;Rieti
+20;F0020;Roma Nova & C.;Roma
+21;F0021;Max Idro & C.;Rieti
+22;F0022;Pulito Turbo Group;Roma
+23;F0023;Lazio Splendor & C.;Rieti
+24;F0024;Max Turbo S.n.c.;Roma
+25;F0025;Max Aqua S.n.c.;Roma
+26;F0026;Pulito Splendor S.n.c.;Latina
+27;F0027;Lucida Idro Group;Roma
+28;F0028;Auto Idro S.n.c.;Roma
+29;F0029;Splendor Nova Group;Latina
+30;F0030;Auto Auto S.n.c.;Frosinone
+31;F0031;Turbo Brill & C.;Latina
+32;F0032;Roma Idro S.n.c.;Roma
+33;F0033;Max Lazio S.r.l.;Viterbo
+34;F0034;Nova Clean S.n.c.;Rieti
+35;F0035;Lucida Lazio Group;Frosinone
+36;F0036;Nova Max & C.;Viterbo
+37;F0037;Lucida Turbo S.r.l.;Rieti
+38;F0038;Brill Turbo Group;Rieti
+39;F0039;Splendor Splendor Group;Viterbo
+40;F0040;Nova Lazio Group;Roma
+41;F0041;Roma Idro & C.;Roma
+42;F0042;Auto Pulito & C.;Frosinone
+43;F0043;Lucida Max & C.;Frosinone
+44;F0044;Aqua Pulito S.n.c.;Roma
+45;F0045;Lazio Pulito Group;Viterbo
+46;F0046;Splendor Brill S.r.l.;Roma
+47;F0047;Idro Nova S.n.c.;Roma
+48;F0048;Eco Lucida & C.;Roma
+49;F0049;Auto Roma & C.;Rieti
+50;F0050;Turbo Aqua S.r.l.;Roma
+51;F0051;Brill Max S.n.c.;Roma
+52;F0052;Idro Auto & C.;Roma
+53;F0053;Pulito Splendor & C.;Latina
+54;F0054;Pulito Turbo & C.;Latina
+55;F0055;Eco Nova Group;Roma
+56;F0056;Max Aqua & C.;Roma
+57;F0057;Splendor Auto S.n.c.;Frosinone
+58;F0058;Pulito Roma S.r.l.;Roma
+59;F0059;Splendor Max & C.;Roma
+60;F0060;Aqua Idro S.r.l.;Viterbo
+61;F0061;Splendor Eco S.n.c.;Roma
+62;F0062;Lazio Splendor Group;Roma
+63;F0063;Eco Max Group;Roma
+64;F0064;Splendor Auto S.r.l.;Roma
+65;F0065;Splendor Clean Group;Latina
+66;F0066;Splendor Auto & C.;Frosinone
+67;F0067;Clean Turbo S.r.l.;Frosinone
+68;F0068;Aqua Idro S.r.l.;Roma
+69;F0069;Max Idro S.r.l.;Rieti
+70;F0070;Idro Auto S.r.l.;Roma
+71;F0071;Nova Roma S.n.c.;Frosinone
+72;F0072;Max Pulito Group;Roma
+73;F0073;Clean Auto Group;Roma
+74;F0074;Pulito Pulito S.n.c.;Latina
+75;F0075;Brill Idro S.n.c.;Rieti
+76;F0076;Clean Splendor S.n.c.;Frosinone
+77;F0077;Eco Lazio S.r.l.;Frosinone
+78;F0078;Turbo Auto Group;Roma
+79;F0079;Lazio Eco S.n.c.;Roma
+80;F0080;Nova Turbo S.n.c.;Rieti
+81;F0081;Max Roma S.r.l.;Roma
+82;F0082;Pulito Clean S.r.l.;Roma
+83;F0083;Idro Idro S.r.l.;Roma
+84;F0084;Pulito Max S.r.l.;Roma
+85;F0085;Lucida Clean Group;Roma
+86;F0086;Eco Roma S.r.l.;Roma
+87;F0087;Turbo Eco & C.;Latina
+88;F0088;Roma Pulito & C.;Roma
+89;F0089;Nova Pulito S.n.c.;Roma
+90;F0090;Turbo Lucida S.n.c.;Latina
+91;F0091;Clean Splendor Group;Roma
+92;F0092;Brill Pulito Group;Frosinone
+93;F0093;Brill Max Group;Roma
+94;F0094;Turbo Clean S.n.c.;Frosinone
+95;F0095;Auto Eco S.n.c.;Roma
+96;F0096;Max Nova Group;Viterbo
+97;F0097;Splendor Clean Group;Latina
+98;F0098;Nova Clean S.n.c.;Roma
+99;F0099;Brill Pulito S.r.l.;Rieti
+100;F0100;Lazio Brill S.r.l.;Roma
+101;F0101;Lazio Eco S.r.l.;Roma
+102;F0102;Pulito Aqua S.r.l.;Viterbo
+103;F0103;Eco Roma S.n.c.;Roma
+104;F0104;Lazio Brill & C.;Rieti
+105;F0105;Lucida Eco S.n.c.;Rieti
+106;F0106;Idro Max Group;Viterbo
+107;F0107;Max Aqua S.n.c.;Roma
+108;F0108;Eco Splendor & C.;Frosinone
+109;F0109;Clean Auto & C.;Roma
+110;F0110;Brill Splendor Group;Roma
+111;F0111;Roma Max Group;Frosinone
+112;F0112;Brill Eco & C.;Roma
+113;F0113;Lucida Aqua S.n.c.;Frosinone
+114;F0114;Lucida Turbo Group;Roma
+115;F0115;Eco Brill S.n.c.;Roma
+116;F0116;Lazio Eco Group;Latina
+117;F0117;Pulito Brill & C.;Frosinone
+118;F0118;Auto Max Group;Roma
+119;F0119;Max Roma & C.;Roma
+120;F0120;Max Splendor Group;Roma
+121;F0121;Splendor Pulito S.r.l.;Roma
+122;F0122;Lazio Lazio S.r.l.;Rieti
+123;F0123;Pulito Lucida S.r.l.;Roma
+124;F0124;Lazio Pulito S.n.c.;Roma
+125;F0125;Nova Lucida S.n.c.;Roma
+126;F0126;Brill Lucida Group;Latina
+127;F0127;Lucida Lucida Group;Roma
+128;F0128;Splendor Max & C.;Roma
+129;F0129;Turbo Lucida Group;Frosinone
+130;F0130;Nova Idro S.r.l.;Roma
+131;F0131;Eco Eco & C.;Frosinone
+132;F0132;Turbo Roma Group;Roma
+133;F0133;Clean Auto S.n.c.;Rieti
+134;F0134;Eco Turbo S.r.l.;Latina
+135;F0135;Lazio Pulito S.r.l.;Roma
+136;F0136;Clean Clean Group;Roma
+137;F0137;Lucida Max S.n.c.;Roma
+138;F0138;Lazio Clean & C.;Latina
+139;F0139;Lazio Idro S.r.l.;Roma
+140;F0140;Lazio Max Group;Roma
+141;F0141;Idro Pulito & C.;Viterbo
+142;F0142;Aqua Pulito S.r.l.;Roma
+143;F0143;Lazio Brill S.r.l.;Rieti
+144;F0144;Aqua Nova Group;Rieti
+145;F0145;Turbo Nova S.n.c.;Latina
+146;F0146;Lazio Clean & C.;Roma
+147;F0147;Max Nova S.r.l.;Roma
+148;F0148;Brill Lucida S.r.l.;Roma
+149;F0149;Lazio Idro & C.;Latina
+150;F0150;Aqua Aqua Group;Rieti
+151;F0151;Brill Lucida & C.;Frosinone
+152;F0152;Auto Auto S.n.c.;Roma
+153;F0153;Clean Clean S.n.c.;Latina
+154;F0154;Pulito Clean S.r.l.;Frosinone
+155;F0155;Turbo Roma S.n.c.;Frosinone
+156;F0156;Idro Turbo S.n.c.;Roma
+157;F0157;Roma Pulito S.n.c.;Frosinone
+158;F0158;Brill Brill S.r.l.;Roma
+159;F0159;Turbo Auto & C.;Frosinone
+160;F0160;Idro Nova S.r.l.;Roma
+161;F0161;Auto Splendor Group;Roma
+162;F0162;Idro Brill S.r.l.;Latina
+163;F0163;Roma Brill Group;Roma
+164;F0164;Clean Clean S.r.l.;Frosinone
+165;F0165;Splendor Eco S.n.c.;Latina
+166;F0166;Nova Nova & C.;Roma
+167;F0167;Auto Nova S.r.l.;Roma
+168;F0168;Turbo Clean & C.;Roma
+169;F0169;Idro Brill & C.;Rieti
+170;F0170;Max Pulito Group;Latina
+171;F0171;Eco Auto S.r.l.;Roma
+172;F0172;Lucida Clean & C.;Viterbo
+173;F0173;Clean Roma & C.;Roma
+174;F0174;Clean Lazio S.n.c.;Roma
+175;F0175;Aqua Max S.n.c.;Roma
+176;F0176;Nova Clean & C.;Roma
+177;F0177;Max Pulito Group;Rieti
+178;F0178;Roma Eco & C.;Roma
+179;F0179;Lazio Roma Group;Roma
+180;F0180;Aqua Eco S.n.c.;Latina
+181;F0181;Splendor Lucida Group;Rieti
+182;F0182;Eco Auto & C.;Viterbo
+183;F0183;Idro Lazio Group;Latina
+184;F0184;Nova Pulito & C.;Roma
+185;F0185;Pulito Nova Group;Frosinone
+186;F0186;Idro Auto Group;Latina
+187;F0187;Splendor Splendor Group;Roma
+188;F0188;Roma Brill S.r.l.;Roma
+189;F0189;Eco Pulito & C.;Roma
+190;F0190;Aqua Lucida Group;Rieti
+191;F0191;Brill Roma Group;Roma
+192;F0192;Idro Turbo S.n.c.;Roma
+193;F0193;Splendor Splendor S.n.c.;Roma
+194;F0194;Clean Auto S.n.c.;Roma
+195;F0195;Lucida Auto S.r.l.;Roma
+196;F0196;Idro Idro S.n.c.;Roma
+197;F0197;Brill Auto S.n.c.;Roma
+198;F0198;Brill Auto S.r.l.;Roma
+199;F0199;Max Auto & C.;Roma
+200;F0200;Lucida Roma S.r.l.;Roma
+201;F0201;Brill Pulito S.r.l.;Latina
+202;F0202;Nova Max S.n.c.;Roma
+203;F0203;Splendor Nova & C.;Latina
+204;F0204;Auto Eco Group;Latina
+205;F0205;Nova Pulito Group;Roma
+206;F0206;Max Aqua S.n.c.;Roma
+207;F0207;Clean Clean S.r.l.;Frosinone
+208;F0208;Eco Turbo S.r.l.;Latina
+209;F0209;Roma Lazio S.n.c.;Roma
+210;F0210;Eco Auto S.r.l.;Roma
+211;F0211;Lazio Auto & C.;Latina
+212;F0212;Aqua Clean S.r.l.;Roma
+213;F0213;Lazio Auto S.n.c.;Frosinone
+214;F0214;Max Roma & C.;Viterbo
+215;F0215;Aqua Idro S.n.c.;Roma
+216;F0216;Eco Turbo S.r.l.;Roma
+217;F0217;Max Nova Group;Roma
+218;F0218;Nova Aqua Group;Roma
+219;F0219;Auto Pulito S.n.c.;Latina
+220;F0220;Auto Turbo S.n.c.;Roma
+221;F0221;Lazio Auto S.r.l.;Viterbo
+222;F0222;Lucida Auto S.n.c.;Roma
+223;F0223;Clean Splendor Group;Roma
+224;F0224;Auto Clean Group;Roma
+225;F0225;Idro Aqua S.r.l.;Frosinone
+226;F0226;Eco Turbo S.r.l.;Roma
+227;F0227;Splendor Turbo S.n.c.;Frosinone
+228;F0228;Aqua Max Group;Roma
+229;F0229;Idro Aqua S.r.l.;Roma
+230;F0230;Splendor Lazio & C.;Roma
+231;F0231;Roma Lucida Group;Roma
+232;F0232;Clean Idro S.n.c.;Roma
+233;F0233;Lucida Auto & C.;Roma
+234;F0234;Lazio Idro Group;Viterbo
+235;F0235;Idro Roma S.n.c.;Roma
+236;F0236;Max Aqua & C.;Viterbo
+237;F0237;Aqua Pulito Group;Roma
+238;F0238;Nova Roma S.n.c.;Frosinone
+239;F0239;Roma Lucida & C.;Roma
+240;F0240;Aqua Splendor S.n.c.;Roma
+241;F0241;Max Turbo & C.;Latina
+242;F0242;Lazio Splendor S.r.l.;Roma
+243;F0243;Roma Roma Group;Viterbo
+244;F0244;Turbo Lazio S.n.c.;Frosinone
+245;F0245;Nova Eco S.n.c.;Frosinone
+246;F0246;Lazio Eco Group;Roma
+247;F0247;Aqua Pulito & C.;Latina
+248;F0248;Clean Auto S.r.l.;Latina
+249;F0249;Roma Idro Group;Roma
+250;F0250;Turbo Max & C.;Roma
+251;F0251;Auto Brill S.r.l.;Viterbo
+252;F0252;Lazio Max S.r.l.;Frosinone
+253;F0253;Auto Pulito & C.;Viterbo
+254;F0254;Roma Splendor Group;Roma
+255;F0255;Clean Lazio S.n.c.;Roma
+256;F0256;Brill Lazio & C.;Roma
+257;F0257;Aqua Nova Group;Frosinone
+258;F0258;Pulito Roma S.r.l.;Roma
+259;F0259;Pulito Roma Group;Roma
+260;F0260;Lazio Nova Group;Roma
+261;F0261;Clean Eco S.n.c.;Viterbo
+262;F0262;Turbo Nova & C.;Roma
+263;F0263;Brill Turbo S.r.l.;Roma
+264;F0264;Pulito Nova S.r.l.;Roma
+265;F0265;Turbo Max S.n.c.;Roma
+266;F0266;Idro Max S.r.l.;Roma
+267;F0267;Auto Idro S.n.c.;Latina
+268;F0268;Splendor Pulito Group;Roma
+269;F0269;Max Brill S.r.l.;Rieti
+270;F0270;Clean Max S.n.c.;Roma
+271;F0271;Eco Clean S.r.l.;Frosinone
+272;F0272;Idro Idro & C.;Roma
+273;F0273;Turbo Nova Group;Frosinone
+274;F0274;Roma Lazio S.n.c.;Latina
+275;F0275;Pulito Nova S.r.l.;Roma
+276;F0276;Lucida Aqua S.n.c.;Roma
+277;F0277;Max Eco S.n.c.;Viterbo
+278;F0278;Aqua Pulito Group;Viterbo
+279;F0279;Idro Idro S.n.c.;Frosinone
+280;F0280;Aqua Max Group;Roma
+281;F0281;Clean Brill S.n.c.;Roma
+282;F0282;Pulito Idro S.n.c.;Latina
+283;F0283;Aqua Max & C.;Frosinone
+284;F0284;Max Lucida & C.;Roma
+285;F0285;Aqua Splendor S.n.c.;Frosinone
+286;F0286;Turbo Pulito S.r.l.;Frosinone
+287;F0287;Roma Eco Group;Roma
+288;F0288;Eco Auto S.r.l.;Roma
+289;F0289;Lucida Brill & C.;Roma
+290;F0290;Lazio Lazio Group;Roma
+291;F0291;Pulito Nova Group;Rieti
+292;F0292;Roma Idro S.r.l.;Latina
+293;F0293;Lucida Turbo S.n.c.;Roma
+294;F0294;Lucida Roma Group;Roma
+295;F0295;Pulito Max Group;Roma
+296;F0296;Clean Idro S.n.c.;Roma
+297;F0297;Turbo Idro S.n.c.;Rieti
+298;F0298;Nova Splendor & C.;Roma
+299;F0299;Pulito Roma S.r.l.;Roma
+300;F0300;Clean Max S.n.c.;Roma
