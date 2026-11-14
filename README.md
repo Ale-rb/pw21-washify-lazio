@@ -24,7 +24,7 @@ CSV grezzi  ──►  pulizia + schema a stella  ──►  CSV puliti  ──�
 
 ## Requisiti
 
-- Python 3.10 o successivo
+- Python 3.11 o successivo
 - Libreria `pandas` (il modulo `sqlite3` fa già parte di Python): `pip install -r requirements.txt`
 - Power BI Desktop (gratuito, solo Windows) per aprire la dashboard
 
@@ -41,7 +41,7 @@ python genera_dati.py             # 1. crea i CSV con i dati inventati in data/r
 python etl.py                     # 2. pulisce i dati, crea il database e i CSV puliti
 python verifica.py                # 3. query SQL di controllo e indicatori
 ```
-
+-Su Windows, se python non funziona, usare py
 Poi apri `dashboard/Washify_Lazio.pbix` con Power BI Desktop.
 
 Se PowerShell blocca l'attivazione dell'ambiente ("esecuzione di script disabilitata"), esegui una volta
